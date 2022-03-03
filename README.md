@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isabellapiveta
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript and TypeScript
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: isabellapivetagodoy@hotmail.com
 

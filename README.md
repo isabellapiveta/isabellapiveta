@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isabellapiveta
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: isabellapivetagodoy@hotmail.com
